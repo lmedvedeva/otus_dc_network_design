@@ -3,3 +3,4 @@
 Лабораторные работы:
 - [Лаб. работа №1: Проектирование адресного пространства](labs/lab01/README.md)
 - [Лаб. работа №2: Построение Underlay. OSPF](labs/lab02/README.md)
+- [Лаб. работа №3: Построение Underlay. IS-IS](labs/lab03/README.md)
