@@ -275,8 +275,8 @@ otus-leaf-sw03  N/A             1      UP     00:00:27   Ethernet1/3
 ```
 Проверим наличи маршрутов до loopback:
 Пример конфигурации с otus-spine-sw01 (на остальном аналогично):
-otus-spine-sw01# show ip route isis
 ```
+otus-spine-sw01# show ip route isis
 10.40.0.129/32, ubest/mbest: 3/0
     *via 10.40.0.1, Eth1/1, [115/81], 00:01:12, isis-Underlay, L2
     *via 10.40.0.5, Eth1/2, [115/81], 00:01:09, isis-Underlay, L2
