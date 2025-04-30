@@ -6,9 +6,10 @@
 - [Лаб. работа №3: Построение Underlay. IS-IS](labs/lab03/README.md)
 - [Лаб. работа №4: Построение Underlay. BGP](labs/lab04/README.md)
 - [Лаб. работа №5: Построение VxLAN. L2VNI](labs/lab05/README.md)
+- [Лаб. работа №6: Построение VxLAN. L3VNI](labs/lab06/README.md)
 
 
-### План адресации ###
+### План адресации
 Для всей площадки будет использоваться сеть **10.40.0.0/16**
 |Network|||Description|
 |---|---|---|---|
@@ -27,3 +28,5 @@
 |||10.40.0.131/32| loopback otus-leaf-sw02
 |||10.40.0.132/32| loopback otus-leaf-sw03
 10.40.100.0/24|||Client services LAB05|
+10.40.101.0/24|||Client services LAB06|
+10.40.102.0/24|||Client services LAB06|
