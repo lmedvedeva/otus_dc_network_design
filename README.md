@@ -7,6 +7,7 @@
 - [Лаб. работа №4: Построение Underlay. BGP](labs/lab04/README.md)
 - [Лаб. работа №5: Построение VxLAN. L2VNI](labs/lab05/README.md)
 - [Лаб. работа №6: Построение VxLAN. L3VNI](labs/lab06/README.md)
+- [Лаб. работа №7: Построение VxLAN. Multihoming](labs/lab07/README.md)
 
 
 ### План адресации
@@ -27,6 +28,8 @@
 |||10.40.0.130/32| loopback otus-leaf-sw01
 |||10.40.0.131/32| loopback otus-leaf-sw02
 |||10.40.0.132/32| loopback otus-leaf-sw03
+|||10.40.0.140/32| secondary address loopback otus-leaf-sw01/02 LAB07
+10.40.1.0/24|||MGMT Fabric LAB07|
 10.40.100.0/24|||Client services LAB05|
 10.40.101.0/24|||Client services LAB06|
 10.40.102.0/24|||Client services LAB06|
